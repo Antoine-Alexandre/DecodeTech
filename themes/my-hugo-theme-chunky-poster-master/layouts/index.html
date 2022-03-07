@@ -1,0 +1,51 @@
+{{ define "main" }}
+<main class="homepage container py-7">
+    <!-- Hero -->
+    <div class="hero row">
+        <div class="col position-relative py-lg-3{{ if not .Site.Params.homepageImage }} py-6{{ else }} pb-5{{ end }}">
+            <h1 class="font-weight-bold">Our digital world. Explained.</h1>
+            {{- with .Site.Params.description -}}
+                <h4 class="font-weight-normal text-muted">{{ . | safeHTML }}</h4>
+            {{- end -}}
+        </div>
+    </div>
+
+    <!-- Latest article -->
+    {{- range first 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) -}}
+        {{ $page := . }}
+        <div class="latest row py-lg-5">
+            <div class="col-lg-6 mb-3">
+                {{- with $page.Params.images -}}
+                    {{- $images := . -}}
+                    {{- with $page.Site.GetPage "section" "images" -}}
+                        {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
+                            {{- $image := .Fill "700x450" -}}
+                            <a href="{{ $page.RelPermalink }}" class="d-block">
+                                <img data-src="{{ $image.RelPermalink }}" class="img-fluid rounded" alt="{{ $page.Title }}">
+                            </a>
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+            </div>
+            <div class="col-lg-6 mb-3">
+                <h5 class="created text-muted text-uppercase font-weight-bold">{{ $page.Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</h5>
+                <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+
+                <div class="content">
+                    {{ $page.Summary }}
+                </div>
+            </div>
+        </div>
+    </p>
+    {{- end -}}
+
+    <!-- Articles -->
+    <div class="articles row row-cols-1 row-cols-lg-3">
+        {{ range after 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+            <div class="col mb-3">
+                {{ .Render "card" }}
+            </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
