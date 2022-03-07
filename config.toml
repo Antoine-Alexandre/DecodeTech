@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.decodetech.eu"
 title = "DecodeTech"
 copyright = "© DecodeTech - 2022"
 paginate = 2
