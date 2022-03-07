@@ -28,9 +28,9 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 
 # The team
 
-###### [Antoine-Alexandre André](http://localhost:1313/authors/antoine-alexandre/)
-###### [Nathan Genicot](http://localhost:1313/authors/nathan/)
-###### [Antoine Verhulst](http://localhost:1313/authors/antoine/)
+###### [Antoine-Alexandre André](https://decodetech.eu/authors/antoine-alexandre/)
+###### [Nathan Genicot](https://decodetech.eu/authors/nathan/)
+###### [Antoine Verhulst](https://decodetech.eu/authors/antoine/)
 
 # External contributors
 /
