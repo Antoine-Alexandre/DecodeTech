@@ -10,7 +10,7 @@ enableEmoji = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
-theme = "hugo-theme-chunky-poster"
+theme = "my-hugo-theme-chunky-poster"
 ignoreErrors = ["error-remote-getjson"]
 
 [menu]
