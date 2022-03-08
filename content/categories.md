@@ -8,7 +8,6 @@ author = "Antoine-Alexandre"
 
 # [Opinions](https://decodetech.eu/category/opinions/)
 Personal thougths and views on specific topics.
-&nbsp;
 
 # [Explained](https://decodetech.eu/category/explained/)
 Brief introductions to (new) technologies and digital trends.

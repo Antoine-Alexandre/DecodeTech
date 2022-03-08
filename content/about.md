@@ -9,6 +9,7 @@ author = "Antoine-Alexandre"
 # About
 
 **DecodeTech** is a general-audience medium founded in April 2022 to explore and discuss how technologies are changing societies and impacting our lifes.  
+&nbsp;
 
 # Start with why
 
