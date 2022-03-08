@@ -38,7 +38,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 In this first iteration of the medium, we plan to publish one article every 8 to 12 days. 
 
 ###### Can I contribute? 
-Yes. If you want to disseminate your work, share something you are excited about, explore a common problem, or express an opinion on the use of technologies in today's world, don't hesitate to reach us! We’ll be pleased to discuss your ideas over a ☕️, 🍵 or 🍺.
+Yes. If you want to disseminate your work, share something you are excited about, explore a common problem, or express an opinion on the use of technologies in today's world, don't hesitate to [reach us](https://decodetech.eu/contact/)! We’ll be pleased to discuss your ideas over a ☕️, 🍵 or 🍺.
 
 ## Last words
 We are starting **DecodeTech** as a team of 3 people (all of us working full-time alongside this project). We are humans, we will probably make mistakes, but we see them as part of the learning process. We believe that striving for perfection doesn't mean being perfect from the start, but that it means being able and willing to improve. 
