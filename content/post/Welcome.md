@@ -1,6 +1,6 @@
 +++
 authors = [
-    "Antoine-Alexandre",
+    "Antoine-Alexandre", 
 ]
 title = "What is this all about?"
 date = "2022-01-17"
