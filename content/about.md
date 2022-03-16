@@ -44,7 +44,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 
 # Acknowledgments
 
-This blog has been created using [Hugo](https://gohugo.io/) and [Chunky Poster](https://github.com/puresyntax71/hugo-theme-chunky-poster).
+This platform has been created using [Hugo](https://gohugo.io/) and [Chunky Poster](https://github.com/puresyntax71/hugo-theme-chunky-poster).
 
 
 
