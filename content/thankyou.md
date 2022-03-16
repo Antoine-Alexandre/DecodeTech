@@ -7,6 +7,7 @@ author = "Antoine-Alexandre"
 +++
 
 # Thank you for your message!
-
+&nbsp;
 #### We'll come back to you asap. 
+&nbsp;
 In the meantime, check out the latest posts on our [homepage](https://decodetech.eu).
