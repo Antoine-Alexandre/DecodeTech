@@ -3,7 +3,7 @@ authors = [
     "Antoine-Alexandre", "Nathan",
 ]
 title = "What the hell are NFTs?"
-date = "2022-01-15"
+date = "2022-03-13"
 description = "NFTs, explained"
 tags = [
     "Blockchain",

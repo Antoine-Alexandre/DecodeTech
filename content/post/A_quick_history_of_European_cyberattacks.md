@@ -3,7 +3,7 @@ authors = [
     "Antoine", "Antoine-Alexandre",
 ]
 title = "A (non-exhaustive) history of cyberattacks in Europe"
-date = "2022-01-14"
+date = "2022-03-14"
 description = ""
 tags = [
     "Cybersecurity"

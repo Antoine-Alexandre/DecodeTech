@@ -4,7 +4,7 @@ authors = [
     "Nathan"
 ]
 title = "Belgian DPA: the European 'ugly ducking'"
-date = "2022-01-16"
+date = "2022-03-13"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 tags = [
     "Privacy",

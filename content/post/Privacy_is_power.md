@@ -4,7 +4,7 @@ authors = [
     "Nathan"
 ]
 title = "'Privacy is power' - a quick review"
-date = "2022-01-13"
+date = "2022-03-13"
 description = ""
 tags = [
     "Privacy", "Profiling", 
