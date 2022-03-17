@@ -16,7 +16,7 @@ images = [
 A bunch of friends in their late 20s launching a medium on how technologies are changing societies and impacting people's lives. 
 
 ## The basics 
-From the way we buy and work to the way we date, digital technologies are changing our lives. Yet, we (creators of **DecodeTech**) have often found it difficult for non-experts to access information and enter discussions surrounding the deployment of technologies in society. 
+From the way we buy and work to the way we date, digital technologies are changing our lives. Yet, we (founders of **DecodeTech**) have often found it difficult for non-experts to access information and enter discussions surrounding the deployment of technologies in society. 
 
 Based on this observation and on our desire to share our (modest) knowledge and experience, we have decided to launch **DecodeTech**: a general-audience platform to share thoughts, insights and analyses about digital technologies and their impacts on people's lives. 
 
