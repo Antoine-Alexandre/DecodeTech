@@ -3,7 +3,7 @@
     <!-- Hero -->
     <div class="hero row">
         <div class="col position-relative py-lg-3{{ if not .Site.Params.homepageImage }} py-6{{ else }} pb-5{{ end }}">
-            <h1 class="font-weight-bold">Our digital world. <kbd>Explained.</kbd></h1>
+            <h1 class="font-weight-bold">Our digital world. <u>Explained.</u></h1>
             {{- with .Site.Params.description -}}
                 <h4 class="font-weight-normal text-muted">{{ . | safeHTML }}</h4>
             {{- end -}}
