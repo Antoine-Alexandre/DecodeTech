@@ -13,7 +13,7 @@ author = "Antoine-Alexandre"
 
 # Start with why 🔥
 
-One major observation is at the origin of this website: there exists very few European-centered, easily accessible, and independent platforms dedicated to the analysis of the digital world. 
+One major observation is at the origin of this website: there exists very few European-centered, easily accessible, and independent platforms exploring digitilization from a multidisciplinary perspective. 
 ***
 
 # Our mission ✨
