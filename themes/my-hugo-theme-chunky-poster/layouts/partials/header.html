@@ -14,8 +14,13 @@
                 {{ range . }}
                     <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
                 {{ end }}
-            {{ end }}   
-            <li><a href="{{ .Site.BaseURL }}" class="btn btn-outline-secondary navbar-btn" role="button">Subscribe</a></li>
+            {{ end }} 
+            <li class="navigation-item menu-separator">
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            </li>  
+            <li><a href="{{ .Site.BaseURL }}" class="btn btn-outline-secondary navbar-btn" role="button">Subscribe</a></li><li class="navigation-item menu-separator">
+                <span>&nbsp;</span>
+            </li> 
         </ul>
         </div>
     </div>
