@@ -6,7 +6,9 @@ aliases = []
 author = "Antoine-Alexandre"
 +++
 
-# Thank you for your support!
+# Thank you for your support! 🤟
 &nbsp;
-#### You'll soon receive a confirmation email. 
+## You'll soon receive a confirmation email. 
+##### &nbsp;
+Nothing received... Check your spams! 
 
