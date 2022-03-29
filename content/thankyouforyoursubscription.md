@@ -8,6 +8,6 @@ author = "Antoine-Alexandre"
 
 # Thank you for your support! 🤟
 &nbsp;
-## You'll soon receive a confirmation email. 
+## You'll soon receive your first email. 
 ##### &nbsp;
-Nothing received... Check your spams! 
+Pssst, you can also follow us on [Linkedin]() and [Twitter]()!
