@@ -62,7 +62,7 @@ author = "authors"
     theme = ""
 
   [params.commento]
-    enable = true
+    enable = false
     url = "https://cdn.commento.io/js/commento.js"
 
 [markup]
