@@ -56,7 +56,7 @@ Lastly, in the defence realm, functions that could be supported by AI-based syst
 - ***###### Autonomous weapons***
 The first thing that come to mind when discussing AI and armaments is probably lethal autonomous weapon systems. The use of these AI-based machines, having the power and discretion to take lives without human involvement, raises important political, legal and moral questions. Already in 2019, UN Secretary-General António Guterres was [urging](https://news.un.org/en/story/2019/03/1035381) countries to take actions to ban these specific weapons. Yet, last year, a new [UN report](https://undocs.org/Home/Mobile?FinalSymbol=S%2F2021%2F229&Language=E&DeviceType=Desktop&LangRequested=False) suggested the use of autonomous Turkish drones to kill enemy troops in Libya.
 
-- ***###### Cyberattacks and disinformation***
+- * ###### Cyberattacks and disinformation*
 Whether through the use of direct cyberattacks on critical national assets or through the dissemination of fake news, cyber warfare and AI are intimately linked as they influence and fuel each other. Used as a Trojan horse in both times of war and peace, these cyber operations have the benefit of being very difficult to detect. Also, they can be easily outsourced to all sorts of private and illegal groups, making them even more complicated to trace and counter. 
 
 ## Where to go from here? 
