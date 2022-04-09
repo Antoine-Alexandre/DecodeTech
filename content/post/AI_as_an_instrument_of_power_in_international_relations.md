@@ -2,7 +2,7 @@
 authors = [
     "Antoine-Alexandre", 
 ]
-title = "Challenging the status quo: a brief introduction of the impacts of AI on economies, societies and international relations"
+title = "Challenging the status quo: AI impacts on economies, societies and international relations"
 date = "2022-04-03"
 description = ""
 tags = [ "Artificial intelligence",
