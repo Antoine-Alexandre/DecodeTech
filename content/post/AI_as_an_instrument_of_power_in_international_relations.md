@@ -2,7 +2,7 @@
 authors = [
     "Antoine-Alexandre", 
 ]
-title = "AI as an instrument of power in international relations"
+title = "Challenging the status quo: a brief introduction of the impacts of AI on economies, societies and international relations"
 date = "2022-04-03"
 description = ""
 tags = [ "Artificial intelligence",
