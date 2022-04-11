@@ -15,7 +15,7 @@ images = [
 
 A bunch of friends in their late 20s launching a medium on how technologies are changing societies and impacting people's lives. 
 
-## The basics 
+### The basics 
 From the way we buy and work to the way we date, digital technologies are changing our lives. Yet, we (founders of **DecodeTech**) have often found it difficult for non-experts to access information and enter discussions surrounding the deployment of technologies in society. 
 
 Based on this observation and on our desire to share our (modest) knowledge and experience, we have decided to launch **DecodeTech**: a general-audience platform to share thoughts, insights and analyses about digital technologies and their impacts on people's lives. 
@@ -23,7 +23,7 @@ Based on this observation and on our desire to share our (modest) knowledge and 
 Our ambition is to contribute to the demystification of digital terminologies, to showcase potentials and drawnbacks of peculiar technologies, to explore digitilization from a multidisciplinary perspective, and to make the European debate more open. Ultimately, our main goal is to help readers `decode` and `reconnect`!
 
 
-## Q&A
+### Q&A
 
 ###### Who are you? 
 We are a bunch of nerds in their late 20s passionate about the digital world. 
@@ -40,7 +40,7 @@ In this first iteration of the medium, we plan to publish one article every 8 to
 ###### Can I contribute? 
 Yes. If you want to disseminate your work, share something you are excited about, explore a common problem, or express an opinion on the use of technologies in today's world, don't hesitate to [reach us](https://decodetech.eu/contact/)! We’ll be pleased to discuss your ideas over a ☕️, 🍵 or 🍺.
 
-## Last words
+### Last words
 We are starting **DecodeTech** as a team of 3 people (all of us working full-time alongside this project). We are humans, we will probably make mistakes, but we see them as part of the learning process. We believe that striving for perfection doesn't mean being perfect from the start, but that it means being able and willing to improve. 
 
 `If you're excited about the project, feel free to talk about it, share our posts, and help us build a more inclusive conversation about the digitalization of society.`
