@@ -15,10 +15,10 @@ images = [
 
 What are the economic and societal changes brought about by the use of AI? And how could these technologies disrupt the global balance of power? 
 
-## Current debates
+### Current debates
 Hardly a week goes by without some new applications of artificial intelligence (AI) making the headlines. While these articles used to describe exciting usages of this family of technologies a couple of years ago, they now tend to focus on [poor predictions](https://hbr.org/2022/03/why-ai-failed-to-live-up-to-its-potential-during-the-pandemic), [built-in biases](https://hbr.org/2022/03/overcoming-the-c-suites-distrust-of-ai) and [misuse of systems](https://www.vox.com/future-perfect/2022/3/30/23001712/ai-research-virus-scientific-information-dangerous) deployed in the private and public sectors alike. Growing attention has (rightly) been paid to the sources of potential drawbacks of AI-based systems. By contrast, there is still little media coverage of the more profound global societal changes and threats resulting from the use of these technologies.
 
-## AI’s impacts on geopolitics
+### AI’s impacts on geopolitics
 On the global stage, a competition is underway as international actors strive to position themselves at the forefront of AI innovation. One of the biggest impacts of this “race to AI” is its potential to disrupt the distribution of power and control, affecting states, private companies, and individuals in various different forms. Development and deployment of AI-based systems are driving swift societal and economic changes, with wide-reaching implications on the global scene. Let’s briefly explore them!
 
 ##### 1. Transforming economies 
