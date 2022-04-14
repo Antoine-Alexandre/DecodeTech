@@ -55,7 +55,6 @@ The stakes in the “race to AI” are often portrayed as an existential necessi
 It is true that global power could result from the use of AI systems. That being said, by promoting and relying more and more on these technologies, we are not making an innocuous choice. We are embracing a distinctive political and philosophical stance. Taking part in the “AI revolution” have strong societal and economic consequences that will impact states, private companies and individuals very differently. 
 
 AI is not a “neutral tool”. Questions of morality, fairness, accountability, competitiveness and sovereignty will continue to arise as AI-based technologies develop and are further deployed. The disruptive potentials of these technologies is **real** and could disturb (for better or worse) the global balance of power. `Discussions on what the use of AI-based technologies entails at national and international level have only just begun, let's make sure they develop!`
-##### &nbsp;
 
 ***
 ##### Recommended citations:
