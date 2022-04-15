@@ -44,9 +44,10 @@ Yes. If you want to disseminate your work, share something you are excited about
 We are starting **DecodeTech** as a team of 3 people (all of us working full-time alongside this project). We are humans, we will probably make mistakes, but we see them as part of the learning process. We believe that striving for perfection doesn't mean being perfect from the start, but that it means being able and willing to improve. 
 
 `If you're excited about the project, feel free to talk about it, share our posts, and help us build a more inclusive conversation about the digitalization of society.`
-
+##### &nbsp; 
 
 ***
 ##### Picture credits:
 [Thoriq Firdaus](https://www.hongkiat.com/blog/hello-world-different-programming-languages/) 
 ***
+##### &nbsp; 
