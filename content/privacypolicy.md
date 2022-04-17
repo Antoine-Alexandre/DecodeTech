@@ -15,7 +15,7 @@ This Policy explains how we collect and process information that personally iden
 We collect Personal Information that you provide to us in the following ways:
 
 - Contacting the platform: If you contact us, we collect the information you voluntarily provide to us. We will access and process such Personal Information for the purposes as set out below.
-- Signing up for the platform updates: we use a subscription service (Sendinblue) to manage our email distribution list. When you provide your email address in the “Subscription” section of the platform and click “Subscribe”, your email address is provided by Sendinblue to us.
+- Signing up for the platform updates: we use a subscription service (Sendinblue) to manage our email distribution list. When you provide your email address in the “Subscribe” section of the platform and click “Subscribe”, your email address is provided by Sendinblue to us.
 
 ### Use of Information
 
@@ -37,7 +37,7 @@ We will never share your Personal Information with any other third party without
 
 The Personal Information you provide when contacting us or when signing up for platform updates is stored on servers in the European Union.
 
-The accuracy of your Personal Information is important to us. If you change your email address, you may send us an email at [decodetech@etik.com](mailto:decodetech@etik.com) for us to be able to change it accordingly. We will only store your Personal Information in our systems for as long as is necessary.
+The accuracy of your Personal Information is important to us. If you change your email address, you may send us an email at [decodetech@etik.com](mailto:decodetech@etik.com) so that we can change it accordingly. We will only store your Personal Information in our systems for as long as is necessary.
 
 ### Security
 
