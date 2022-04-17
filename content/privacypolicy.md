@@ -43,7 +43,7 @@ The accuracy of your Personal Information is important to us. If you change your
 
 We use reasonable precautions to protect your Personal Information and to store it securely. However, no method of transmission over the internet, or method of electronic storage is 100% secure. We will do our best to protect your Personal Information, but cannot guarantee the security of your information transmitted to us.
 
-### Links to other website
+### Links to other websites
 
 The platform may provide links to other websites for your convenience and information. These websites may operate independently from us and may have their own privacy policies. To the extent any linked websites are not owned or controlled by us, we are not responsible for their content, any use of the websites or the privacy practices of those websites.
 
