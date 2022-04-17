@@ -1,12 +1,11 @@
 +++
-title = ""
+title = "Privacy Policy"
 description = ""
 date = "2021-02-14"
 aliases = []
 author = "Antoine-Alexandre"
 +++
 
-## Privacy Policy
 This statement comprises the privacy policy (the “Policy”) of DecodeTech (the “platform”; “we”; “us”). This Policy does not cover the platform’s presence on social media, such as Twitter and LinkedIn. In the context of those websites, we are merely another user and the privacy policies, as well as the terms and conditions, of those platforms apply.
 
 This Policy explains how we collect and process information that personally identifies you or enables us to contact you (“Personal Information”). If you have any questions about our Policy, please contact our team at [decodetech@etik.com](mailto:decodetech@etik.com).
