@@ -29,7 +29,7 @@ Our ambition is to contribute to the demystification of digital terminologies, t
 We are a bunch of nerds in their late 20s passionate about the digital world. 
 
 ###### Are you digital experts? 
-No. We are all working on/in/with tech (broadly speaking), but we would never called ourselves "experts". 
+No. We are all working on/in/with tech, but we would never called ourselves "experts". 
 
 ###### What topics will you cover? 
 From privacy concerns, to smart cities and cryptocurrencies, we aim to cover technological topics that inspire us and spark societal debate.
