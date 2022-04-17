@@ -39,7 +39,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 ***
 
 # Other contributors 🏅
-You want to contribute?! Take a look at our [contribution page](https://decodetech.eu/post/contribute/)!
+Want to contribute?! Take a look at our [contribution page](https://decodetech.eu/post/contribute/)!
 ***
 
 # Acknowledgments 👏
