@@ -33,8 +33,6 @@ Once we all agree on the content and format, we schedule a release date and publ
 Send us an email at [decodetech@etik.com](mailto:decodetech@etik.com) with your ideas and/or your draft contribution attached. Include the phrase “Contribution DecodeTech” in the subject line of your email message, along with a sentence that sums up your thesis or idea. Also, tell us quickly about yourself. 
 
 We promise to follow up on all ideas and contributions sent to the extent possible. We are humans, so in case you don't hear back from us in a week, feel free to follow up via email. 
-
-Together we can help readers `decode` and `reconnect`!
 ##### &nbsp; 
 
 ***
