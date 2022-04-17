@@ -8,7 +8,7 @@ author = "Antoine-Alexandre"
 
 # About 💡
 
-**DecodeTech** is a general-audience medium launched in April 2022 to explore and discuss how technologies are changing societies and impacting our lifes.  
+**DecodeTech** is a general-audience medium launched in April 2022 to explore and discuss how technologies are changing societies and impacting our lives.  
 ***
 
 # Start with why 🔥
@@ -39,7 +39,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 ***
 
 # Other contributors 🏅
-You want to contribute, don't hesitate to [reach us](https://decodetech.eu/contact/)!
+You want to contribute?! Take a look at our [contribution page](https://decodetech.eu/contribute/)!
 ***
 
 # Acknowledgments 👏
