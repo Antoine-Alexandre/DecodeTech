@@ -18,7 +18,7 @@ A bunch of friends in their late 20s launching a medium on how technologies are 
 ### The basics 
 From the way we buy and work to the way we date, digital technologies are changing our lives. Yet, it remains difficult (and even somewhat fustrating) to try to understand the vast implications of agreeing to give up our personal data or deciding to use a foreign online service. Many of the consequences of digital actions and transformations in the private and public sphere continue to be quite unclear. It can be hard for non-technical experts to access information and enter discussions surrounding the deployment of technologies in society.  
 
-Based on these observations and on our desire to share our (modest) knowledge and experience, we have decided to launch **DecodeTech**: a general-audience platform to share thoughts, insights and analyses about digital technologies and their impacts on people's lives. 
+Based on this observation and on our desire to share our (modest) knowledge and experience, we have decided to launch **DecodeTech**: a general-audience platform to share thoughts, insights and analyses about digital technologies and their impacts on people's lives. 
 
 Our ambition is to contribute to the demystification of digital terminologies, to showcase potentials and drawnbacks of peculiar technologies, and to explore digitilization from a multidisciplinary perspective. We can't promise all the answers, but we will make our best to make the European debate more open and to help readers `decode` and `reconnect`!
 
