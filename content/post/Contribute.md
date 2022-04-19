@@ -16,7 +16,7 @@ images = [
 Your voice and ideas matter. Help us build a true European and multidisciplinary debate on technologies! 
 
 ### Our motto
-At **DecodeTech** we believe that the more we talk about innovation and demistify the use of technologies, the more it will benefit people and reflect the diversity of our world. We are committed to the idea that everyone should have the opportunity to talk about tech and express its stories, hopes, and concerns about digitalisation.
+At **DecodeTech** we believe that the more we discuss innovation and demistify the use of technologies, the more it will benefit people and reflect the diversity of our world. We are committed to the idea that everyone should have the opportunity to talk about tech and express its stories, hopes, and concerns about digitalisation.
 
 ### What we are looking for
 The majority of the contributions we publish are articles, but interviews and other types of content are also appreciated. We welcome pieces that popularize complex topics, start their own conversations through the force of their stakes/ideas, or break down conventional wisdom. We are particularly interested in voices and analyses from the European Union and from groups historically underrepresented in technology and technology writing.
