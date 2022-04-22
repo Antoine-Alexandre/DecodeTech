@@ -55,7 +55,7 @@ author = "authors"
 
   [params.social]
     linkedin = "https://linkedin.com"
-    twitter = "https://twitter.com"
+    twitter = "https://twitter.com/decodetech_eu"
 
   [params.prismJS]
     enable = true
