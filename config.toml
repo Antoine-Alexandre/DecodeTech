@@ -54,7 +54,7 @@ author = "authors"
   customJS = []
 
   [params.social]
-    linkedin = "https://www.linkedin.com/company/decodetech/"
+    linkedin = "https://www.linkedin.com/company/decodetech"
     twitter = "https://twitter.com/decodetech_eu"
 
   [params.prismJS]
