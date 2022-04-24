@@ -50,3 +50,5 @@ The platform may provide links to other websites for your convenience and inform
 ### Changes to our Policy
 
 Our Policy may change in the future. We encourage you to review this page periodically to understand our Policy regarding our collection and use of your Personal Information. The date of this Policy, as stated below, indicates the last time this Policy was materially revised.
+
+Last modified: 20 April 2022
