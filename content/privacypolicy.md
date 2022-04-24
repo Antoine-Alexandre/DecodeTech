@@ -14,8 +14,8 @@ This Policy explains how we collect and process information that personally iden
 ### Collection of Information
 We collect Personal Information that you provide to us in the following ways:
 
-- Contacting the platform: If you contact us, we collect the information you voluntarily provide to us. We will access and process such Personal Information for the purposes as set out below.
-- Signing up for the platform updates: we use a subscription service (Sendinblue) to manage our email distribution list. When you provide your email address in the “Subscribe” section of the platform and click “Subscribe”, your email address is provided by Sendinblue to us.
+- Contacting the platform: If you contact us, we collect the information you voluntarily provide us. We will access and process such Personal Information for the purposes as set out below.
+- Signing up for the platform updates: we use a subscription service (Sendinblue) to manage our email distribution list. When you provide your email address in the “Subscribe” section of the platform and click “Subscribe”, your email address is provided to us by Sendinblue.
 
 ### Use of Information
 
