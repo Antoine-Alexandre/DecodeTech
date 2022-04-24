@@ -13,7 +13,7 @@ author = "Antoine-Alexandre"
 
 # Start with why 🔥
 
-One major observation is at the origin of this website: there exists very few European-centered, easily accessible, and independent platforms exploring digitilization from a multidisciplinary perspective. 
+One major observation is at the origin of this website: there exists very few European-centered, easily accessible, and independent platforms exploring digitilisation from a multidisciplinary perspective. 
 ***
 
 # Our mission ✨
