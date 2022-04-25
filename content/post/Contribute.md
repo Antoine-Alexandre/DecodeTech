@@ -3,7 +3,7 @@ authors = [
     "Antoine-Alexandre", "Nathan",
 ]
 title = "How to contribute"
-date = "2022-04-02"
+date = "2022-04-22"
 description = ""
 tags = [ "Contribute",
 ]

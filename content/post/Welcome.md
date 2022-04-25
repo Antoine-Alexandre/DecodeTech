@@ -3,7 +3,7 @@ authors = [
     "Antoine-Alexandre", "Antoine",
 ]
 title = "What is this all about"
-date = "2022-04-01"
+date = "2022-04-21"
 description = "What this platform is all about"
 tags = [ "About us",
 ]
