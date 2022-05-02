@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-A bunch of friends in their late 20s launching a medium on how technologies are changing societies and impacting people's lives. 
+*A bunch of friends in their late 20s launching a medium on how technologies are changing societies and impacting people's lives.*
 
 ### The basics 
 From the way we buy and work to the way we date, digital technologies are transforming our lives. Yet, it remains difficult (and even somewhat fustrating) to understand the vast implications of agreeing to give up our personal data or deciding to use a foreign online service. Many of the consequences of digital actions and transformations in the private and public sphere remain rather unclear. It can be hard for non-technical experts to access information and enter discussions surrounding the deployment of technologies in society.  
