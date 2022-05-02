@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-What are the economic and societal changes brought about by the use of AI? And how could these technologies disrupt the global balance of power? 
+*What are the economic and societal changes brought about by the use of AI? And how could these technologies disrupt the global balance of power?*
 
 ### From dream to reality
 Hardly a week goes by without some new applications of artificial intelligence (AI) making the headlines. While these articles used to describe exciting usages of this family of technologies a couple of years ago, they now tend to focus on [poor predictions](https://hbr.org/2022/03/why-ai-failed-to-live-up-to-its-potential-during-the-pandemic), [built-in biases](https://hbr.org/2022/03/overcoming-the-c-suites-distrust-of-ai) and [misuse of systems](https://www.vox.com/future-perfect/2022/3/30/23001712/ai-research-virus-scientific-information-dangerous) deployed in the private and public sectors alike. Growing attention is being paid to the sources of potential drawbacks of AI-based systems. The questions raised are not so much anymore about what we can do with AI, but rather what we are doing with it and for what purpose. 
