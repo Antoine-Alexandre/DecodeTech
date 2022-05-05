@@ -3,7 +3,7 @@ authors = [
     "Nathan",
 ]
 title = "The AI Act and EU's own use of digital technologies: the example of ETIAS"
-date = "2022-05-05"
+date = "2022-05-04"
 description = ""
 tags = [ "Artificial intelligence", "Trust", "Profiling",
 ]
