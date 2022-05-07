@@ -5,7 +5,7 @@ authors = [
 title = "The AI Act and the EU's own use of digital technologies: the example of ETIAS"
 date = "2022-05-04"
 description = ""
-tags = [ "Artificial intelligence", "Trust", "Profiling",
+tags = [ "AI", "Trust", "Profiling",
 ]
 category = ["Deep dives", "I wrote", ]
 images = [

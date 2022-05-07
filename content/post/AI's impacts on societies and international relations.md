@@ -5,7 +5,7 @@ authors = [
 title = "Challenging the status quo: AI's impacts on societies and international relations"
 date = "2022-04-27"
 description = ""
-tags = [ "Artificial intelligence", "International relations",
+tags = [ "AI", "International relations",
 ]
 category = ["Opinions", "Explained", ]
 images = [
