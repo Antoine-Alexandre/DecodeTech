@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-*When cities implement artificial intelligence without consulting the population or the technology itself, it can rapidly backfire. The case of Brussels and smart scan-cars illustrate it.*
+*When cities implement artificial intelligence without consulting the population or the technology itself, it can rapidly backfire. The case of Brussels and smart scan-cars illustrates it.*
 
 ### Priest versus robot
 
