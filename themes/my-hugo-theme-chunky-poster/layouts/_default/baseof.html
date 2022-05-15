@@ -4,6 +4,10 @@
     {{ partial "head.html" . }}
 </head>
 <body>
+    <div
+  style="
+    background-image: url('https://decodetech.eu/images/background2.png');"
+>
     {{ partial "header.html" . }}
 
     {{ block "main" . }}{{ end }}
@@ -12,5 +16,6 @@
     {{ partial "foot.html" . }}
 
     {{ template "_internal/google_analytics.html" . }}
+</div>
 </body>
 </html>
