@@ -58,6 +58,8 @@ AI is not a “neutral tool”. Questions of morality, fairness, accountability,
 
 ##### &nbsp; 
 ***
+***DecodeTech** publishes opinions from a wide range of perspectives in hopes of promoting constructive debate about important topics.*
+***
 ##### Recommended citations:
 - Fanni, C. F. K., Joshua P. Meltzer, Andrea Renda, Alex Engler, and Rosanna. (2021, octobre 25). Strengthening international cooperation on AI. Brookings. https://www.brookings.edu/research/strengthening-international-cooperation-on-ai/
 - Franke, U., 2021, Artificial Intelligence diplomacy | Artificial Intelligence governance as a new European Union external policy tool, Study for the special committee on Artificial Intelligence in a Digital Age (AIDA), Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
