@@ -39,4 +39,3 @@ We promise to follow up on all ideas and contributions sent to the extent possib
 ##### Picture credits:
 [Aaron Burden](https://unsplash.com/photos/AXqMy8MSSdk) 
 ***
-##### &nbsp; 

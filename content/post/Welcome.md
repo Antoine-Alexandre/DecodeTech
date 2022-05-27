@@ -49,4 +49,3 @@ We are starting **DecodeTech** as a team of 3 people (all of us working full-tim
 ##### Picture credits:
 [Thoriq Firdaus](https://www.hongkiat.com/blog/hello-world-different-programming-languages/) 
 ***
-##### &nbsp; 
