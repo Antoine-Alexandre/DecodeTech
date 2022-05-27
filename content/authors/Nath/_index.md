@@ -1,5 +1,5 @@
 ---
-name: Nathan Vander Heyden
+name: Nathan van der Heyden
 images: ["VanderHeyden.png"]
 twitter: ""
 ---
