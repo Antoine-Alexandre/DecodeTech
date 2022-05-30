@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-*With a robust distributed security model and transparency by-default, blockchain could be the right technology for the future of democracy.*
+*With a distributed security model and transparency by-default, blockchain could be the right technology for the future of democracy.*
 
 ### Blockchains are just Excels with extra steps
 
