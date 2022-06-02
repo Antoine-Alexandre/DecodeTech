@@ -7,7 +7,7 @@ date = "2022-06-01"
 description = ""
 tags = [ "AI", "Standards",
 ]
-category = ["Explained" ]
+category = ["Explained", "Deep Dives" ]
 images = [
     "standards.jpg",
 ]
