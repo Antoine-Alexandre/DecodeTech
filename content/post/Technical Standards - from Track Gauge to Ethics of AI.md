@@ -15,7 +15,7 @@ images = [
 
 *Technical standards and certification are becoming an increasingly used regulatory instrument. They are even strongly considered in the field of AI ethics.*
 
-### The EU Single Maket: Relying on standards
+### The EU Single Market: relying on standards
 
 Nowadays there is no business line without regulatory technical standards: standards for specifying the sizes of writing paper, for energy management, for scaffold width, for power cables, for aviation and space flight, for toys, for animal feed… the list is endless. And the practice is hardly a new development. The Roman Empire already imposed its standards on the conquered territories, especially regarding roads, construction and administration. The creation of a technical standard aims to harmonise a sector of activity and facilitate a universality of use. The most telling example of this is the gauge of train rails: in order for trains to be able to move as widely as possible, the rail spacing had to be standardised. 
 
