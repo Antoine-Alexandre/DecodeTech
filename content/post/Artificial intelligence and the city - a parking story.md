@@ -107,6 +107,9 @@ Thankfully, his devotion ended up being rewarded as the fine was finally cancell
 ##### Recommended citations:
 - Green, B. (2019). The smart enough city : putting technology in its place to reclaim our urban future. MIT Press. https://mitpress.mit.edu/books/smart-enough-city 
 
+##### Category:
+[Explained](https://decodetech.eu/category/explained/)
+
 ##### Picture credits:
 [Kirill Tonkikh](https://unsplash.com/photos/VHMOjviPgcU)
 ***

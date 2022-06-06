@@ -48,6 +48,9 @@ There is a lot of uncertainty about the future of civilization. One thing is cer
 ***
 ***DecodeTech** publishes opinions from a wide range of perspectives in hopes of promoting constructive debate about important topics.*
 ***
+##### Categories:
+[Opinions](https://decodetech.eu/category/opinions/), [Explained](https://decodetech.eu/category/explained/)
+
 ##### Picture credits:
 [Element5 Digital](https://unsplash.com/photos/T9CXBZLUvic)
 ***

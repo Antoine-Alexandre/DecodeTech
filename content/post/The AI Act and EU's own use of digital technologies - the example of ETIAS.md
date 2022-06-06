@@ -45,6 +45,9 @@ Thus, while the EU presents itself as a champion of human rights-friendly and tr
 ##### Recommended citations:
 - This article is directly inspired from a scientific article I co-authored in which you will find a detailed study of ETIAS: [Charly Derave, Nathan Genicot and Nina Hetmanska, “The risks of trustworthy AI: The case of ETIAS” (2022) *European Journal of Risk Regulation* forthcoming](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/341791/Holdings).
 
+##### Categories:
+[Deep Dives](https://decodetech.eu/category/deep-dives/), [I wrote](https://decodetech.eu/category/i-wrote/)
+
 ##### Picture credits:
 [Marc-Olivier Paquin](https://unsplash.com/photos/nvpnVTjdzbM)
 ***

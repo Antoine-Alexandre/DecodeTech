@@ -57,6 +57,9 @@ Are we taking the path of operationalisation of ethical choices and human rights
 - Yves Poullet, Éthique et droits de l’homme dans notre société du numérique, 2020. 
 - Cathy O’Neil, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, 2016.
 
+##### Category:
+[Deep Dives](https://decodetech.eu/category/deep-dives/)
+
 ##### Picture credits:
 [Arisa Chattasa](https://unsplash.com/photos/0LaBRkmH4fM)
 ***
