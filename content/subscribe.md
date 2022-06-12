@@ -6,7 +6,7 @@ aliases = []
 author = "Antoine-Alexandre"
 +++
 
-# "Sunday Recap", your weekly dose of European tech stories!
+# Subscribe to Sunday Recap, your weekly dose of EU tech stories!
 
 
 {{< subscription-form >}}
