@@ -56,11 +56,11 @@ It is true that global power could result from the use of AI systems. That being
 
 AI is not a “neutral tool”. Questions of morality, fairness, accountability, competitiveness and sovereignty will continue to arise as AI-based technologies develop and are further deployed. The disruptive potentials of these technologies is **real** and could disturb (for better or worse) the global balance of power. `Discussions on what the use of AI-based technologies entails at national and international level have only just begun, let's make sure they develop!`
 
-*The author works for the European Commission. The opinions presented in this article reflect the personal opinion of the author only and do not constitute an official position of the European Commission.*
-
 ##### &nbsp; 
 ***
 ***DecodeTech** publishes opinions from a wide range of perspectives in hopes of promoting constructive debate about important topics.*
+***
+*The author works for the European Commission. The opinions presented in this article reflect the personal opinion of the author only and do not constitute an official position of the European Commission.*
 ***
 ##### Recommended citations:
 - Fanni, C. F. K., Joshua P. Meltzer, Andrea Renda, Alex Engler, and Rosanna. (2021, octobre 25). Strengthening international cooperation on AI. Brookings. https://www.brookings.edu/research/strengthening-international-cooperation-on-ai/
