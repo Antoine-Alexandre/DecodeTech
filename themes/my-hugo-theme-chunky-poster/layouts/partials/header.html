@@ -10,14 +10,30 @@
                 <li class="navigation-item menu-separator">
                     <span>&nbsp;</span>
                 </li>
-            {{- if .Site.Params.showLanguageSwitcher -}}
-                {{ partial "i18nlist.html" . }}
-            {{- end -}}
-            {{ with .Site.Menus.main }}
-                {{ range . }}
-                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-                {{ end }}
-            {{ end }} 
+                <li class="nav-item">
+                    <a class="nav-link" href="/about/">About</a>
+                  </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/categories/">Categories</a>
+                  </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                      Topics
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/ai/">Artificial intelligence</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/profiling/">Profiling</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/smart-city/">Smart city</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/trust/">Trust</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/governance/">Governance</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/blockchain/">Blockchain</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/standards/">Standards</a>
+                      <a class="dropdown-item" href="https://decodetech.eu/tags/international-relations/">International relations</a>
+                    </div>
+                  </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact/">Contact</a>
+                  </li>
             <li class="navigation-item menu-separator">
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             </li>  
