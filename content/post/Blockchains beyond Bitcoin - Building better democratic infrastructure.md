@@ -3,7 +3,7 @@ authors = [
     "Nath"
 ]
 title = "Blockchains beyond Bitcoin: building better democratic infrastructure"
-date = "2022-05-25"
+date = "2022-06-02"
 description = ""
 tags = [ "Blockchain", "Trust",
 ]

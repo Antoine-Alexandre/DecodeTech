@@ -3,7 +3,7 @@ authors = [
     "Milene"
 ]
 title = "Technical standards: from track gauge to ethics of AI"
-date = "2022-06-01"
+date = "2022-07-07"
 description = ""
 tags = [ "AI", "Standards",
 ]
