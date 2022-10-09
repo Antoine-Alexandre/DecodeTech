@@ -6,7 +6,7 @@ aliases = []
 author = "Antoine-Alexandre"
 +++
 
-# Subscribe to [Sunday Recap]() and don't miss any new articles!
+# Subscribe to [Sunday Recap]() and don't miss any new article!
 
 ➡️ Take a look at a preview [here](https://sh1.sendinblue.com/ade290x18lpfe.html?t=1661073565).
 
