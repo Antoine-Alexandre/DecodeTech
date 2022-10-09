@@ -34,7 +34,7 @@ No. We are all working on/in/with tech, but we would never call ourselves "exper
 From privacy concerns, to smart cities and cryptocurrencies, we aim to cover technological topics that inspire us and spark societal debate.
 
 ###### How many articles do you plan to share per month? 
-In this first iteration of the medium, we plan to publish one article every 8 to 12 days. 
+In this first iteration of the medium, we plan to publish one article per month. 
 
 ###### Can I contribute? 
 Yes. If you want to disseminate your work, share something you are excited about, explore a common problem, or express an opinion on the use of technologies in today's world, check out our [contribution page](https://decodetech.eu/post/contribute/)! We’ll be pleased to discuss your ideas over a ☕️ or 🍺.
