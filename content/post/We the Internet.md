@@ -2,7 +2,7 @@
 authors = [
     "Benoit", 
 ]
-title = "'We, the Internet': a new model for Internet governance"
+title = "'We, the Internet', a new model for Internet governance"
 date = "2022-09-08"
 description = ""
 tags = [ "Trust", "Governance",
