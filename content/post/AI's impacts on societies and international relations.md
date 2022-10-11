@@ -2,7 +2,7 @@
 authors = [
     "Antoine-Alexandre", 
 ]
-title = "Challenging the status quo: AI's impacts on societies and international relations"
+title = "AI's impacts on societies and international relations"
 date = "2022-04-27"
 description = ""
 tags = [ "AI", "International relations",

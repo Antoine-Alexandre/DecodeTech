@@ -42,6 +42,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 
 ###### [Milène Hauri](https://decodetech.eu/authors/milene/)
 ###### [Nathan van der Heyden](https://decodetech.eu/authors/nath/)
+###### [Norman Vander Putten](https://decodetech.eu/authors/norman/)
 ###### [Benoît Verhuslt](https://decodetech.eu/authors/benoit/)
 Want to contribute?! Take a look at our [contribution page](https://decodetech.eu/post/contribute/)!
 ##### &nbsp;
