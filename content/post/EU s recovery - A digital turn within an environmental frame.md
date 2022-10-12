@@ -2,7 +2,7 @@
 authors = [
     "Norman"
 ]
-title = "EU's RRF: A digital turn within an environmental frame?"
+title = "EU's recovery: A digital turn within an environmental frame?"
 date = "2022-10-11"
 description = ""
 tags = [ "Green", "Digital transition",
@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-*While presented as improving the EU's crisis preparedness, the Recovery and Resilience Facility (RRF) could have decisive consequences on how digitalisation is understood with respect to environmental protection.*
+*Although the EU’s Recovery and Resilience Facility (RRF) aims to relaunch the economy and build resilience, It could have decisive consequences on how digitalisation is understood with respect to environmental protection.*
 
 ### The Recovery and Resilience Facility
 
