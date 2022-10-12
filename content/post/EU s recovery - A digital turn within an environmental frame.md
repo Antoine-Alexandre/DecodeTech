@@ -2,7 +2,7 @@
 authors = [
     "Norman"
 ]
-title = "EU's recovery: A digital turn within an environmental frame?"
+title = "EU's recovery: a digital turn within an environmental frame?"
 date = "2022-10-11"
 description = ""
 tags = [ "Green", "Digital transition",
