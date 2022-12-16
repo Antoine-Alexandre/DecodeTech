@@ -29,7 +29,7 @@ Well, if you think the first part of this article was written by a human, then, 
 
 Yes… The first part of this article has been entirely produced, in less than 5 seconds, by [ChatGPT](https://openai.com/blog/chatgpt/), GPT-3’s little brother that specializes in the creation of human-like texts and dialogues (see screenshot below). 
 
-{{< figure src="https://missionspubliques.org/wp-content/uploads/2022/05/62cadb47-bc3e-4691-aa04-a1cb343c0fb5-1024x576.jpg" >}}
+{{< figure src="https://decodetech.eu/images/ChatGPT.png" >}}
 
 ### How does it work?
 The principle of ChatGPT is simple: just like other generative AI tools, you give it a prompt (a sentence, a question or an affirmation) and the system gives you a well-structured answer in real time. 
