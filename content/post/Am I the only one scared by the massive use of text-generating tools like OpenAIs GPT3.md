@@ -27,7 +27,7 @@ You would certainly recognize that an article was written by an AI tool, right?!
 
 Well, if you think the first part of this article was written by a human, then, I can tell you, you are not quite ready for the future of online (dis)information... 
 
-Yes… The first part of this article has been entirely produced, in less than 5 seconds, by [ChatGPT](https://openai.com/blog/chatgpt/), GPT-3’s little brother that specializes in the creation of human-like texts and dialogues (see screenshot below). 
+Yes, the first part of this article has been entirely produced, in less than 5 seconds, by [ChatGPT](https://openai.com/blog/chatgpt/), GPT-3’s little brother that specializes in the creation of human-like texts and dialogues (see screenshot below). 
 
 {{< figure src="https://decodetech.eu/images/ChatGPT.png" >}}
 
@@ -36,7 +36,7 @@ The principle of ChatGPT is simple: just like other generative AI tools, you giv
 
 To generate new text, ChatGPT is using a machine learning technique called [Reinforcement Learning from Human Feedback](https://openai.com/blog/chatgpt/). 
 
-The basic (oversimplified) idea here is that (1) a first (beta) version of the AI system is created, (2) a human operator trains the systems by providing both questions that could be asked by a user and/or answers that should be given by the AI system, (3) periodically, a set of answers given by the AI system is sent to a human operator that ranked them by quality, and (4) the human’s ranking is used to train a reward function to refine the system. 
+The basic idea here is that (1) a beta version of the AI system is created, (2) a human operator trains the systems by providing both questions that could be asked by a user and/or answers that should be given by the AI system, (3) periodically, a set of answers given by the AI system is sent to a human operator that ranked them by quality, and (4) the human’s ranking is used to train a reward function to refine the system. 
 
 You fuel the system with lots of data and perform (2), (3), and (4) many (many) times and you end up with a system that gives you structured (and, on average, pretty good) answers to almost any question/query you can imagine.
 
@@ -51,7 +51,7 @@ Are these AI generative techniques any new? No. The same AI training processes a
 -	music generation -> you give the system a series of songs produced by an artist and it generates a new "similar" song,
 -	[and many more](https://industrywired.com/top-10-applications-of-generative-ai-models-in-creative-work/).
 
-Today, AI models are far more capable than we -non-specialised engineers- usually think. They are still [not 100% reliable](https://mashable.com/article/chatgpt-amazing-wrong) and remain, most of the time, not very accessible to the general public, but the trend is changing: AI generative systems are going mainstream, and we are just beginning to see the effect this will have on societies.
+Today, AI models are far more capable than we usually think. They are still [not 100% reliable](https://mashable.com/article/chatgpt-amazing-wrong) and remain, most of the time, not very accessible to the general public, but the trend is changing: AI generative systems are going mainstream, and we are just beginning to see the effect this will have on societies.
  
 
 ### Threat to democracy, trust… 
