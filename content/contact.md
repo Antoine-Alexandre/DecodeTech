@@ -6,7 +6,7 @@ aliases = []
 author = "Antoine-Alexandre"
 +++
 
-# Contact us 
+# Contact us ✉️
 
 ➡️ Use the form below for any questions, remarks, or suggestions you have about the platform. 
 
