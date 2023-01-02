@@ -43,7 +43,7 @@ author = "authors"
 
 [params]
   author = "Antoine-Alexandre"
-  description = "Uncovering how technologies are changing societies - with an EU perspective."
+  description = "Uncovering how technologies are changing societies."
   homepageImage = "/images/homepage-image.png"
   dateFormat = "January 2, 2006"
   share = true
