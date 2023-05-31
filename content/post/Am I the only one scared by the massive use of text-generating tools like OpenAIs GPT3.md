@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-*GPT-3’s little brother “ChatGPt” is here… I don’t know about you, but, for my part, I'm worried about the possibility of using similar systems to massively spread fake news…*
+*GPT-3’s little brother “ChatGPT” is here… I don’t know about you, but, for my part, I'm worried about the possibility of using similar systems to massively spread fake news…*
 
 ### GPT-3 and online disinformation
 The use of the GPT-3 language model to create online disinformation is a growing concern as the technology becomes more widely available. GPT-3, developed by [OpenAI](https://openai.com/), is a state-of-the-art language processing system that can generate human-like text based on a given prompt. This ability makes GPT-3 a powerful tool for generating fake news and other forms of online disinformation.
