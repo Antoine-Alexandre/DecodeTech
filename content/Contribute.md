@@ -8,7 +8,7 @@ author = "Antoine-Alexandre"
 
 # Our motto 🧭
 
-At **DecodeTech** we believe that the more we talk about digital technologies and demystify their use, the more it will benefit people and reflect the diversity of our world. We are committed to the idea that everyone should have the opportunity to talk about tech and express its stories, hopes and concerns about digitalisation.
+At **DecodeTech** we believe that the more we talk about digital technologies and demystify their use, the more it will benefit people and reflect the diversity of our world. We are committed to the idea that everyone should have the opportunity to talk about tech and express their stories, hopes and concerns about digitalisation.
 ##### &nbsp;
 
 # What we are looking for 🔎
