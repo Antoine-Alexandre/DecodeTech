@@ -7,7 +7,7 @@ date = "2023-05-31"
 description = ""
 tags = [ "AI", "Governance",
 ]
-category = ["Opinions", "Explained", ]
+category = ["Opinions", "Deep Dives", ]
 images = [
     "AI_military.jpg"
 ]
@@ -79,7 +79,7 @@ In short, the way that AI development and use has progressed in the commercial f
 
 
 ##### Categories:
-[Opinions](https://decodetech.eu/category/opinions/), [Explained](https://decodetech.eu/category/explained/)
+[Opinions](https://decodetech.eu/category/opinions/), [Deep Dives](https://decodetech.eu/category/deep-dives/)
 
 ##### Picture credits: 
 [Valentin Lacoste](https://unsplash.com/fr/photos/myfIfQ-dbTA)
