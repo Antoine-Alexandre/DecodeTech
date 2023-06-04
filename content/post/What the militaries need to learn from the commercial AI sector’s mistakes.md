@@ -82,5 +82,5 @@ In short, the way that AI development and use has progressed in the commercial f
 [Opinions](https://decodetech.eu/category/opinions/), [Explained](https://decodetech.eu/category/explained/)
 
 ##### Picture credits: 
-[Valentin Lacoste](https://unsplash.com/fr/photos/myfIfQ-dbTA)
+[Dose Media](https://unsplash.com/fr/photos/DiTiYQx0mh4)
 ***
