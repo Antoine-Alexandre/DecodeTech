@@ -40,8 +40,8 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 
 # Other contributors 🏅
 
-###### [Ronja Rönnback](https://decodetech.eu/authors/ronja/)
 ###### [Milène Hauri](https://decodetech.eu/authors/milene/)
+###### [Ronja Rönnback](https://decodetech.eu/authors/ronja/)
 ###### [Nathan van der Heyden](https://decodetech.eu/authors/nath/)
 ###### [Norman Vander Putten](https://decodetech.eu/authors/norman/)
 ###### [Benoît Verhuslt](https://decodetech.eu/authors/benoit/)
