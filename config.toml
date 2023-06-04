@@ -1,6 +1,6 @@
 baseURL = "https://decodetech.eu"
 title = "DecodeTech"
-copyright = "© DecodeTech - since 2022"
+copyright = "© DecodeTech - 2023"
 paginate = 6
 summaryLength = 17
 languageCode = "en"
