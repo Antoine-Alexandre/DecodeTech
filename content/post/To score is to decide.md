@@ -65,7 +65,7 @@ However, the issue does not only concern credit agencies, but more broadly all s
 ##### &nbsp; 
 ***
 ##### Recommended citations:
-- This article has been published initially on [Verfassungsblog](https://verfassungsblog.de/).
+- This article was published initially on [Verfassungsblog](https://verfassungsblog.de/to-score-is-to-decide/).
 
 ##### Categories:
 [Deep Dives](https://decodetech.eu/category/deep-dives/), [I wrote](https://decodetech.eu/category/i-wrote/)
