@@ -13,7 +13,7 @@ images = [
 ]
 +++
 
-*Can the act of assigning a score to someone constitute a decision? This, in essence, is the question the Court of Justice of the European Union had to answer in the SCHUFA case, and the Court’s answer is yes!*
+*Can the act of assigning a score to someone constitute a decision? The European Union Court of Justice's answer to a highly controversial question, and its broad implications.*
 
 ### About the SCHUFA case
 
@@ -23,7 +23,7 @@ The CJEU has been asked to give a preliminary ruling by a [German court](https:/
 
 The dispute arose from a credit score produced by SCHUFA, which led a third party (a bank or other type of credit institution) to refuse a loan to the applicant. After being refused the loan, the applicant asked SCHUFA to disclose information about the data stored and to erase incorrect data. In response, SCHUFA informed her that her score was 85.96%, and provided some general information about the methodology used, but refused to say more, claiming business confidentiality. The applicant then sued SCHUFA, relying on various provisions of the GDPR. After being dismissed at first instance, the applicant appealed against this decision before the Verwaltungsgericht Wiesbaden, which referred the matter to the CJEU.
 
-At the heart of the dispute lies the question of the applicability of Article 22 the GDPR to SCHUFA scores. But the CJEU’s ruling will have a wider impact, notably on all situations where a score or profile produced by one entity (whether private or public) is used by another. The path chosen by the Court is very welcome because it recognises that, very often, the simple act of scoring is in itself a decision, but it also raises important questions that will no doubt give rise to much discussion.
+At the heart of the dispute lies the question of the applicability of Article 22 of GDPR to SCHUFA scores. But the CJEU’s ruling will have a wider impact, notably on all situations where a score or profile produced by one entity (whether private or public) is used by another. The path chosen by the Court is very welcome because it recognises that, very often, the simple act of scoring is in itself a decision, but it also raises important questions that will no doubt give rise to much discussion.
 
 ### Scoring and consumer credit agencies
 
