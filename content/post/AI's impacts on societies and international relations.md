@@ -50,7 +50,7 @@ In addition to fully-fledged weaponry, AI is increasingly being integrated into 
 
 ### Where to go from here? 
 The stakes in the “race to AI” are often portrayed as an existential necessity to protect us from [digital authoritarianism](https://freedomhouse.org/report/freedom-net/2018/rise-digital-authoritarianism). As stressed by French President Emmanuel Macron in an [interview](https://www.wired.com/story/emmanuel-macron-talks-to-wired-about-frances-ai-strategy/) in 2018, 
-> “if you want to manage your own choice of society, your choice of civilization, you have to be able to be an acting part of this AI revolution. That’s the condition of having a say in designing and defining the rules of AI.” 
+> “If you want to manage your own choice of society, your choice of civilization, you have to be able to be an acting part of this AI revolution. That’s the condition of having a say in designing and defining the rules of AI.” 
 
 It is true that global power could result from the use of AI systems. That being said, by promoting and relying more and more on these technologies, we are not making an innocuous choice. We are embracing a distinctive political and philosophical stance. Taking part in the “AI revolution” has strong societal and economic consequences that will impact states, private companies, and individuals very differently. 
 
