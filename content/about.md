@@ -38,7 +38,7 @@ From privacy concerns, to smart cities and cryptocurrencies, we aim to cover tec
 ###### [Antoine Verhulst](https://decodetech.eu/authors/antoine/)
 ##### &nbsp;
 
-# Other contributors 🏅
+# Our contributors 🏅
 
 ###### [Milène Hauri](https://decodetech.eu/authors/milene/)
 ###### [Ronja Rönnback](https://decodetech.eu/authors/ronja/)
