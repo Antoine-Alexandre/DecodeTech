@@ -28,7 +28,7 @@ Opening the door for more people to participate in debates surrounding the deplo
 
 # Topics covered 🗂️
 
-From privacy concerns, to smart cities and cryptocurrencies, we aim to cover technological topics that inspire us and spark societal debate.
+From artificial intelligence, to privacy concerns, smart cities and social media, we aim to cover technological topics that inspire us and spark societal debate.
 ##### &nbsp;
 
 # The team 👥
