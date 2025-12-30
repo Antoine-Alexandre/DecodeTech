@@ -43,7 +43,7 @@ author = "authors"
 
 [params]
   author = "Antoine-Alexandre"
-  description = "Uncovering how technologies are changing societies."
+  description = "A European perspective on the role of technologies in society."
   homepageImage = "/images/homepage-image.png"
   dateFormat = "January 2, 2006"
   share = true
@@ -55,7 +55,6 @@ author = "authors"
 
   [params.social]
     linkedin = "https://www.linkedin.com/company/decodetech"
-    twitter = "https://twitter.com/decodetech_eu"
 
   [params.prismJS]
     enable = true
